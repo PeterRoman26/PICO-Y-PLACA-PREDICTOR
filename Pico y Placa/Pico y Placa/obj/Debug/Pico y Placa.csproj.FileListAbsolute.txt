@@ -1,0 +1,9 @@
+c:\users\pedro\documents\visual studio 2015\Projects\Pico y Placa\Pico y Placa\bin\Debug\Pico y Placa.exe.config
+c:\users\pedro\documents\visual studio 2015\Projects\Pico y Placa\Pico y Placa\bin\Debug\Pico y Placa.exe
+c:\users\pedro\documents\visual studio 2015\Projects\Pico y Placa\Pico y Placa\bin\Debug\Pico y Placa.pdb
+c:\users\pedro\documents\visual studio 2015\Projects\Pico y Placa\Pico y Placa\obj\Debug\Pico y Placa.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2015\Projects\Pico y Placa\Pico y Placa\obj\Debug\Pico_y_Placa.Form1.resources
+c:\users\pedro\documents\visual studio 2015\Projects\Pico y Placa\Pico y Placa\obj\Debug\Pico_y_Placa.Properties.Resources.resources
+c:\users\pedro\documents\visual studio 2015\Projects\Pico y Placa\Pico y Placa\obj\Debug\Pico y Placa.csproj.GenerateResource.Cache
+c:\users\pedro\documents\visual studio 2015\Projects\Pico y Placa\Pico y Placa\obj\Debug\Pico y Placa.exe
+c:\users\pedro\documents\visual studio 2015\Projects\Pico y Placa\Pico y Placa\obj\Debug\Pico y Placa.pdb
